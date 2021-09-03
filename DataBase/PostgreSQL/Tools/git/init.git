@@ -1,0 +1,4 @@
+1.  git config --global user.name "joker"
+2.  git config --global user.email "2995183552@qq.com"
+3.  ssh-keygen -t rsa -C "2995183552@qq.com"
+4. git config --global http.sslVerify "false"
